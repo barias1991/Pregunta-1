@@ -1,0 +1,10 @@
+1. Crear una aplicación web sencilla en cualquier lenguaje de programación. 2 puntos.
+
+La aplicación simplemente deberá escuchar al endpoint GET hello{name} de tal manera que al ser llamada por ejemplo a GET hellojuan, 
+debe retornar el siguiente objeto JSON
+
+{
+  “message” “Hello Juan”
+}
+
+Subir el código a un repositorio git cualquiera, público o privado. (Github  Bitbucket).
